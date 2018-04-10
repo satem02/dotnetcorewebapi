@@ -1,0 +1,16 @@
+/Users/temel/Documents/Projects/WebApi/ConcantManager/EndPoint/bin/Debug/netcoreapp2.0/EndPoint.deps.json
+/Users/temel/Documents/Projects/WebApi/ConcantManager/EndPoint/bin/Debug/netcoreapp2.0/EndPoint.runtimeconfig.json
+/Users/temel/Documents/Projects/WebApi/ConcantManager/EndPoint/bin/Debug/netcoreapp2.0/EndPoint.runtimeconfig.dev.json
+/Users/temel/Documents/Projects/WebApi/ConcantManager/EndPoint/bin/Debug/netcoreapp2.0/EndPoint.dll
+/Users/temel/Documents/Projects/WebApi/ConcantManager/EndPoint/bin/Debug/netcoreapp2.0/EndPoint.pdb
+/Users/temel/Documents/Projects/WebApi/ConcantManager/EndPoint/obj/Debug/netcoreapp2.0/EndPoint.csproj.CoreCompileInputs.cache
+/Users/temel/Documents/Projects/WebApi/ConcantManager/EndPoint/obj/Debug/netcoreapp2.0/EndPoint.AssemblyInfoInputs.cache
+/Users/temel/Documents/Projects/WebApi/ConcantManager/EndPoint/obj/Debug/netcoreapp2.0/EndPoint.AssemblyInfo.cs
+/Users/temel/Documents/Projects/WebApi/ConcantManager/EndPoint/obj/Debug/netcoreapp2.0/EndPoint.dll
+/Users/temel/Documents/Projects/WebApi/ConcantManager/EndPoint/obj/Debug/netcoreapp2.0/EndPoint.pdb
+/Users/temel/Documents/Projects/WebApi/ConcantManager/EndPoint/bin/Debug/netcoreapp2.0/Business.dll
+/Users/temel/Documents/Projects/WebApi/ConcantManager/EndPoint/bin/Debug/netcoreapp2.0/Common.dll
+/Users/temel/Documents/Projects/WebApi/ConcantManager/EndPoint/bin/Debug/netcoreapp2.0/Models.dll
+/Users/temel/Documents/Projects/WebApi/ConcantManager/EndPoint/bin/Debug/netcoreapp2.0/Models.pdb
+/Users/temel/Documents/Projects/WebApi/ConcantManager/EndPoint/bin/Debug/netcoreapp2.0/Common.pdb
+/Users/temel/Documents/Projects/WebApi/ConcantManager/EndPoint/bin/Debug/netcoreapp2.0/Business.pdb

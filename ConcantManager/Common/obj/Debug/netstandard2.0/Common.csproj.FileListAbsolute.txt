@@ -1,0 +1,8 @@
+/Users/temel/Documents/Projects/WebApi/ConcantManager/Common/bin/Debug/netstandard2.0/Common.deps.json
+/Users/temel/Documents/Projects/WebApi/ConcantManager/Common/bin/Debug/netstandard2.0/Common.dll
+/Users/temel/Documents/Projects/WebApi/ConcantManager/Common/bin/Debug/netstandard2.0/Common.pdb
+/Users/temel/Documents/Projects/WebApi/ConcantManager/Common/obj/Debug/netstandard2.0/Common.csproj.CoreCompileInputs.cache
+/Users/temel/Documents/Projects/WebApi/ConcantManager/Common/obj/Debug/netstandard2.0/Common.AssemblyInfoInputs.cache
+/Users/temel/Documents/Projects/WebApi/ConcantManager/Common/obj/Debug/netstandard2.0/Common.AssemblyInfo.cs
+/Users/temel/Documents/Projects/WebApi/ConcantManager/Common/obj/Debug/netstandard2.0/Common.dll
+/Users/temel/Documents/Projects/WebApi/ConcantManager/Common/obj/Debug/netstandard2.0/Common.pdb
